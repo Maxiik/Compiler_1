@@ -1,0 +1,3 @@
+abcdefghij = 34*18;
+
+return abcdefghij;
